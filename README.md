@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 food-diary
 ==========
 
@@ -29,3 +30,7 @@ Then run the following commands in your favorite command line tool :
 
 `$ bin/console doctrine:database:create`
 `$ bin/console doctrine:schema:create`
+=======
+# Symfony-unit-test
+try on continuous integration 
+>>>>>>> f2a592af1bd24a84100c2d44fadab900d3b18ce4
